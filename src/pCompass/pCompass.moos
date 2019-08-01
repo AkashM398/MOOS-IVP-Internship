@@ -1,0 +1,9 @@
+//------------------------------------------------
+// pCompass config block
+
+ProcessConfig = pCompass
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+
